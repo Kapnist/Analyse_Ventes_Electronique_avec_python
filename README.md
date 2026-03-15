@@ -14,10 +14,12 @@ The goal is to provide actionable insights for business growth using **Data Scie
 
 ## 🔍 Key Business Questions Answered
 1. **What was the best month for sales?** (Identified seasonality)
-2. **What city sold the most product?** (Geographic performance)
-3. **What time should we display advertisements?** (Optimizing peak hours)
-4. **What products are most often sold together?** (Cross-selling opportunities)
-5. **What is the correlation between price and quantity sold?**
+2. ![Visualisation des ventes](LE_MOIS8LE_PLUS_PERFORMANT.png)
+
+3. **What city sold the most product?** (Geographic performance)
+4. **What time should we display advertisements?** (Optimizing peak hours)
+5. **What products are most often sold together?** (Cross-selling opportunities)
+6. **What is the correlation between price and quantity sold?**
 
 ## 💡 Key Insights
 - **Advertising Peak:** The best times to display ads are around **11 AM** and **7 PM**.
