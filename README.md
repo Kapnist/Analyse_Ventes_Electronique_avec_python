@@ -30,7 +30,7 @@ The goal is to provide actionable insights for business growth using **Data Scie
 - **Product Bundles:** iPhones and Lightning Charging Cables are the most frequent combination.
 - ![Visualisation des ventes](top5_des_produits_les_plus_vendus.png)
 - **Price Sensitivity:** There is a clear inverse correlation between price and quantity sold for everyday items (batteries, cables).
-- ![Visualisation des ventes](correlation entre le prix et la quantité vendue.png)
+- ![Visualisation des ventes](correlation_entre_le_prix_et_la_quantité vendue.png)
 
 ## 🚀 How to Run the Project
 1. Clone this repository.
