@@ -17,9 +17,16 @@ The goal is to provide actionable insights for business growth using **Data Scie
 2. ![Visualisation des ventes](LE_MOIS_LE_PLUS_PERFORMANT.png)
 
 3. **What city sold the most product?** (Geographic performance)
-4. **What time should we display advertisements?** (Optimizing peak hours)
-5. **What products are most often sold together?** (Cross-selling opportunities)
-6. **What is the correlation between price and quantity sold?**
+4. ![Visualisation des ventes](vente_par_magasin.png)
+
+5. **What time should we display advertisements?** (Optimizing peak hours)
+    ![Visualisation des ventes](pic_de_commande.png)
+7. 
+8. **What products are most often sold together?** (Cross-selling opportunities)
+  ![Visualisation des ventes](top5_des_produits_les_plus_vendus.png)
+   
+10. **What is the correlation between price and quantity sold?**
+    ![Visualisation des ventes](correlation entre le prix et la quantité vendue.png)
 
 ## 💡 Key Insights
 - **Advertising Peak:** The best times to display ads are around **11 AM** and **7 PM**.
