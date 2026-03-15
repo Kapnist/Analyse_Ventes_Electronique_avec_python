@@ -20,18 +20,17 @@ The goal is to provide actionable insights for business growth using **Data Scie
 4. ![Visualisation des ventes](vente_par_magasin.png)
 
 5. **What time should we display advertisements?** (Optimizing peak hours)
-    ![Visualisation des ventes](pic_de_commande.png)
-7. 
 8. **What products are most often sold together?** (Cross-selling opportunities)
-  ![Visualisation des ventes](top5_des_produits_les_plus_vendus.png)
-   
 10. **What is the correlation between price and quantity sold?**
     ![Visualisation des ventes](correlation entre le prix et la quantité vendue.png)
 
 ## 💡 Key Insights
 - **Advertising Peak:** The best times to display ads are around **11 AM** and **7 PM**.
+- ![Visualisation des ventes](pic_de_commande.png)
 - **Product Bundles:** iPhones and Lightning Charging Cables are the most frequent combination.
+- ![Visualisation des ventes](top5_des_produits_les_plus_vendus.png)
 - **Price Sensitivity:** There is a clear inverse correlation between price and quantity sold for everyday items (batteries, cables).
+- ![Visualisation des ventes](correlation entre le prix et la quantité vendue.png)
 
 ## 🚀 How to Run the Project
 1. Clone this repository.
