@@ -28,3 +28,13 @@ The goal is to provide actionable insights for business growth using **Data Scie
 1. Clone this repository.
 2. Ensure you have `pandas`, `seaborn`, and `matplotlib` installed.
 3. Open `Analyse_des_ventes_python.ipynb` in Jupyter Notebook or Google Colab.
+
+4. ## 🎯 Conclusion & Strategic Recommendations
+
+Based on the data insights, I recommend the following actions for the business:
+
+1. **Optimize Ad Spending:** Focus digital marketing campaigns between **10:00 AM - 12:00 PM** and **6:00 PM - 8:00 PM**. This aligns with peak ordering times when customers are most active.
+2. **Strategic Product Bundling:** Since **iPhones and Lightning Charging Cables** are frequently bought together, create a "Starter Pack" promotion to increase the average order value.
+3. **Inventory Management by City:** **San Francisco** shows the highest sales volume. Inventory levels should be prioritized for West Coast distribution centers to ensure faster shipping.
+4. **Pricing Strategy:** Low-cost items (AA/AAA batteries, USB-C cables) drive the highest volume. These should be used as "add-on" suggestions at checkout to boost sales without significant marketing costs.
+
