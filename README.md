@@ -14,7 +14,7 @@ The goal is to provide actionable insights for business growth using **Data Scie
 
 ## 🔍 Key Business Questions Answered
 1. **What was the best month for sales?** (Identified seasonality)
-2. ![Visualisation des ventes](LE_MOIS8LE_PLUS_PERFORMANT.png)
+2. ![Visualisation des ventes](LE_MOIS_LE_PLUS_PERFORMANT.png)
 
 3. **What city sold the most product?** (Geographic performance)
 4. **What time should we display advertisements?** (Optimizing peak hours)
